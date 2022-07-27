@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Muhammad Radian Rsayid Frontend Test
+
+## Module list for this project
+* redux toolkit
+* react-redux
+* axios
+* bootstrap
+
+## How To Run This Project
+* Clone this project
+* run __npm install__ in your terminal
+* run __npm start__ to launch the app
+* your are pretty much ready to use this app
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
