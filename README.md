@@ -1,4 +1,4 @@
-# Muhammad Radian Rsayid Frontend Test
+# Muhammad Radian Rasyid Frontend Test
 
 ## Module list for this project
 * redux toolkit
